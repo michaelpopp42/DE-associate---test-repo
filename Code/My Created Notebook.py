@@ -9,3 +9,4 @@
 # MAGIC SELECT "HELLO 8"
 # MAGIC SeLEct "hELLO 9"
 # MAGIC SELECT "hello 10"
+# MAGIC SELECT "Hello 11"
